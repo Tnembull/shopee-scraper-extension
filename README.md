@@ -1,3 +1,17 @@
+# ⚠️ Notice: Repository Moved & Consolidated
+
+This extension is now actively maintained as part of the all-in-one **Shopee Review Scraper Suite**:
+
+👉 **[https://github.com/Tnembull/scraper-shopee](https://github.com/Tnembull/scraper-shopee)**
+
+All updates, bug fixes, and source code are now located inside the `chrome-extension/` directory of the main repository.
+
+---
+
+*(The original extension README has been archived below for reference)*
+
+---
+
 # 🛒 Shopee Scraper Extension v1.0.0
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
